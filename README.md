@@ -75,10 +75,15 @@
   Make personal firewalls to not allow targetting on script owner<br />
   Camlock Runservice Shifting (Renderstepped, Stepped, Heartbeat)<br />
   Coloured Guns<br />
-  Remove Backdoor<br />
+  Remove Backdoor<br /> 
   Remove Unneeded Commands <br />
   Clean Up Source Code <br />
   Make Commands Toggle On and Off (Instant of eample: unaimlock) <br />
+ 
+  (Have done) <br />
+  Remove Backdoor<br />
+  Remove Unneeded Commands<br />
+  Clean Up Source Code<br />
 
 # Possible Updates: <br />
   Release Source Code <br />
