@@ -76,6 +76,9 @@
   Camlock Runservice Shifting (Renderstepped, Stepped, Heartbeat)<br />
   Coloured Guns<br />
   Remove Backdoor<br />
+  Remove Unneeded Commands <br />
+  Clean Up Source Code <br />
+  Make Commands Toggle On and Off (Instant of eample: unaimlock) <br />
 
 # Possible Updates: <br />
   Release Source Code <br />
