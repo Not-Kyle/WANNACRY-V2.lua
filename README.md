@@ -3,7 +3,7 @@
 # Commands = { <br />
   Age [Tells a users account age] <br />
   Aimlock [Manual Aimlock] <br />
-  Aimlockset [Changes which limb the aimlock is on]<br />
+  Aimlockset [Prediction, MoveDirection, Head, OldPrediction, Highping]<br />
   Aimvelocity<br />
   Airwalk<br />
   Annoy<br />
@@ -70,20 +70,23 @@
 }
 
 # Coming Updates: <br />
-  Write entirely new bypass<br />
   OP Aimlock<br />
-  Make personal firewalls to not allow targetting on script owner<br />
   Camlock Runservice Shifting (Renderstepped, Stepped, Heartbeat)<br />
   Coloured Guns<br />
-  Remove Backdoor<br /> 
-  Remove Unneeded Commands <br />
-  Clean Up Source Code <br />
-  Make Commands Toggle On and Off (Instant of eample: unaimlock) <br />
  
   (Have done) <br />
   Remove Backdoor<br />
   Remove Unneeded Commands<br />
   Clean Up Source Code (1k Useless Lines Of Code Removed)<br />
+  Removed all un____ commands<br />
+  Custom Bypass<br />
+  Added NoSit toggle<br />
+  Added Safety from bans<br />
+  Added Metatable Checking (API)<br />
+  Added Command Counter<br />
+  Made Commands recongnize all forms of spelling<br />
+  Made ScreenGui less likely to be detected and Gui Protection<br />
+  Made personal firewall to not be targetted using my own script<br />
 
 # Possible Updates: <br />
   Release Source Code <br />
