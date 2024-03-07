@@ -71,7 +71,6 @@
 
 # Coming Updates: <br />
   OP Aimlock<br />
-  Camlock Runservice Shifting (Renderstepped, Stepped, Heartbeat)<br />
   Coloured Guns<br />
  
   (Have done) <br />
