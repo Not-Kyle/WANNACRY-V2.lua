@@ -72,6 +72,7 @@
 # Coming Updates: <br />
   OP Aimlock<br />
   Coloured Guns<br />
+  Fake lag<br />
  
   (Have done) <br />
   Remove Backdoor<br />
@@ -86,6 +87,9 @@
   Made Commands recongnize all forms of spelling<br />
   Made ScreenGui less likely to be detected and Gui Protection<br />
   Made personal firewall to not be targetted using my own script<br />
+  Camlock is now runservice shifting (Heartbeat, Stepped, Renderstepped)<br />
+  Aimlock can now be shifted by limbs (Head, Torso, HumanoidRootPart)<br />
+  Syn metatable now turns into a comment "--syn" if executor does not support it<br />
 
 # Possible Updates: <br />
   Release Source Code <br />
