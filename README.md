@@ -1,5 +1,26 @@
 # The best free script in prison remake! By Coryu
 
+# UPDATE V2.1A IS HERE!!
+  New:
+      Remove Backdoor<br />
+      Remove Unneeded Commands<br />
+      Clean Up Source Code (1k Useless Lines Of Code Removed)<br />
+      Removed all un____ commands<br />
+      Custom Bypass<br />
+      Added NoSit toggle<br />
+      Added Safety from bans<br />
+      Added Metatable Checking (API)<br />
+      Added Command Counter<br />
+      Made Commands recongnize all forms of spelling<br />
+      Made ScreenGui less likely to be detected and Gui Protection<br />
+      Made personal firewall to not be targetted using my own script<br />
+      Camlock is now runservice shifting (Heartbeat, Stepped, Renderstepped)<br />
+      Aimlock can now be shifted by limbs (Head, Torso, HumanoidRootPart)<br />
+      Syn metatable now turns into a comment "--syn" if executor does not support it<br />
+      Coloured Guns<br />
+      Customizable Guns<br />
+      Fake lag<br />
+
 # Commands = { <br />
   Age [Tells a users account age] <br />
   Aimlock [Manual Aimlock] <br />
@@ -69,29 +90,9 @@
   Void [Teleports you to the void (antikill)]<br />
 }
 
-# Coming Updates: V2.1A <br />
+# Coming Updates: V2.2B <br />
   OP Aimlock<br />
  
-  (Have done) <br />
-  Remove Backdoor<br />
-  Remove Unneeded Commands<br />
-  Clean Up Source Code (1k Useless Lines Of Code Removed)<br />
-  Removed all un____ commands<br />
-  Custom Bypass<br />
-  Added NoSit toggle<br />
-  Added Safety from bans<br />
-  Added Metatable Checking (API)<br />
-  Added Command Counter<br />
-  Made Commands recongnize all forms of spelling<br />
-  Made ScreenGui less likely to be detected and Gui Protection<br />
-  Made personal firewall to not be targetted using my own script<br />
-  Camlock is now runservice shifting (Heartbeat, Stepped, Renderstepped)<br />
-  Aimlock can now be shifted by limbs (Head, Torso, HumanoidRootPart)<br />
-  Syn metatable now turns into a comment "--syn" if executor does not support it<br />
-  Coloured Guns<br />
-  Customizable Guns<br />
-  Fake lag<br />
-
 # Possible Updates: <br />
   Release Source Code <br />
   
