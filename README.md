@@ -71,7 +71,6 @@
 
 # Coming Updates: V2.1A <br />
   OP Aimlock<br />
-  Fake lag<br />
  
   (Have done) <br />
   Remove Backdoor<br />
@@ -91,6 +90,7 @@
   Syn metatable now turns into a comment "--syn" if executor does not support it<br />
   Coloured Guns<br />
   Customizable Guns<br />
+  Fake lag<br />
 
 # Possible Updates: <br />
   Release Source Code <br />
