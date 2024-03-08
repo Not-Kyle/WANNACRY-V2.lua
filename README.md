@@ -69,9 +69,8 @@
   Void [Teleports you to the void (antikill)]<br />
 }
 
-# Coming Updates: <br />
+# Coming Updates: V2.1A <br />
   OP Aimlock<br />
-  Coloured Guns<br />
   Fake lag<br />
  
   (Have done) <br />
@@ -90,6 +89,8 @@
   Camlock is now runservice shifting (Heartbeat, Stepped, Renderstepped)<br />
   Aimlock can now be shifted by limbs (Head, Torso, HumanoidRootPart)<br />
   Syn metatable now turns into a comment "--syn" if executor does not support it<br />
+  Coloured Guns<br />
+  Customizable Guns<br />
 
 # Possible Updates: <br />
   Release Source Code <br />
