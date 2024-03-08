@@ -22,68 +22,68 @@
       Fake lag<br />
 
 # Commands = { <br />
-  Age [Says a players account age]<br />
-  Aimlock/Aim [Aimlocks on a player]<br />
-  Aimlockpart [Head, Torso, HumanoidRootPart]<br />
-  Aimlockset/Aimset/Aims [Head, Prediction, OldPrediction, MoveDirection, Highping]<br />
-  Aimvelocity/Av [Changes aimlock velocity]<br />
-  Airwalk [Allows you to walk on air]<br />
-  Annoy/Ay [Annoys a player]<br />
-  Antiafk [Prevents you from being kicked by being afk]<br />
-  Antifling [Prevents you from being flung]<br />
-  Antigh [Prevents you from being knocked to the ground]<br />
-  Autofire [Turns your gun into automatic]<br />
-  Blink/Bl [Run fast]<br />
-  Blinkspeed/Bs [Changes the speed of blink]<br />
-  Camlock/Cl [Locks your camera on a player]<br />
-  Camlocksetting [Heartbeat, Stepped, Renderstepped] Default: Stepped<br />
-  Clearwalls [Whenever you go close to a wall, you can see through it]<br />
-  Clicktp [Press T and teleport]<br />
-  Color [Custom gun coloring] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: It uses brickcolor (Search up roblox brickcolors)<br />
-  Coloredguns [Already colored guns (Wanncry Themed)]<br />
-  Esp [Shows you where a player is]<br />
-  Fakelag [Makes it look like you're lagging]<br />
-  Flyspeed/Fs [Changes fly speed]<br />
-  Follow [Allows you to follow someone]<br />
-  Fov/Fieldofview [Changes your fov]<br />
-  Fovcircle/Circle/Aimlockcircle [Shows an fovcircle]<br />
-  Freeze/Frz [Freezes you]<br />
-  Fullbright [Makes the game always bright]<br />
-  Fullzoom/Infzoom [Zoom out infinitly]<br />
-  Goto/to [Teleports you to a player]<br />
-  HideUi/Hu [Hides those ugly buttons on the left side of the screen]<br />
-  Hotkeys [Loads a GUI allowing you to change your hotkeys (Yes, they save)]<br />
-  Infiniteff/Infff [Be invinsible forever!]<br />
-  Infinitejump/InfJump/Ij [Jump forever]<br />
-  Larm [Removes left arm]<br />
-  Lleg [Removes left leg]<br />
-  Material [Custom gun materialing] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Search up roblox materials<br />
-  Noclip/Nc [Allows you to go through anything]<br />
-  Nosit [Never sit]<br />
-  Outerspace/Space [Teleports you to space]<br />
-  Pipebot/Pb [Pipebots a player]<br />
-  Protect/Pro [Places you infront of someone taking all of the damage]<br />
-  Rarm [Right arm]<br />
-  Reflectance [Custom gun reflection] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Enter a number between 0.1-1<br />
-  Rejoin/Rj [Rejoins the game]<br />
-  Remotegun [A bit broken but will make your gun teleport to a player you targetted]<br />
-  Removeallparts [Removes all limbs]<br />
-  Removearms [Removes arms]<br />
-  Removelegs [Removes legs]<br />
-  Reset/Re [Resets your character]<br />
-  Resettime [Changes the time to normal]<br />
-  Rleg [Removes right leg]<br />
-  Selectgun [Choose a gun you want to customize (Shotty or Glock)]<br />
-  Shottyrocket/Rocket [Makes your shotty look like a RPG]<br />
-  Shutdown/Exit [Kills your game]<br />
-  Sit [Makes you sit]<br />
-  Spam [Spam any message]<br />
-  Spamdelay [Changes the speed of your spammed message] P.S: The higher the number, the slower the time is<br />
-  Time [Changes time of day] P.S: 0-24<br />
-  Transparency [Custom gun transparency] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Enter a number between 0.1-1<br />
-  Triggerbot [Makes you kill someone over and over]<br />
-  View [Allows you to watch someone like a stalker]<br />
-  Void [Teleports you to the void]<br />
+  Age: ↓<br />[Says a players account age]<br />
+  Aimlock/Aim: ↓<br />[Aimlocks on a player]<br />
+  Aimlockpart: ↓<br /> [Head, Torso, HumanoidRootPart]<br />
+  Aimlockset/Aimset/Aims: ↓<br /> [Head, Prediction, OldPrediction, MoveDirection, Highping]<br />
+  Aimvelocity/Av: ↓<br /> [Changes aimlock velocity]<br />
+  Airwalk: ↓<br /> [Allows you to walk on air]<br />
+  Annoy/Ay: ↓<br /> [Annoys a player]<br />
+  Antiafk: ↓<br /> [Prevents you from being kicked by being afk]<br />
+  Antifling: ↓<br /> [Prevents you from being flung]<br />
+  Antigh: ↓<br /> [Prevents you from being knocked to the ground]<br />
+  Autofire: ↓<br /> [Turns your gun into automatic]<br />
+  Blink/Bl: ↓<br /> [Run fast]<br />
+  Blinkspeed/Bs: ↓<br /> [Changes the speed of blink]<br />
+  Camlock/Cl: ↓<br /> [Locks your camera on a player]<br />
+  Camlocksetting: ↓<br /> [Heartbeat, Stepped, Renderstepped] Default: Stepped<br />
+  Clearwalls: ↓<br /> [Whenever you go close to a wall, you can see through it]<br />
+  Clicktp: ↓<br /> [Press T and teleport]<br />
+  Color: ↓<br /> [Custom gun coloring] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: It uses brickcolor (Search up roblox brickcolors)<br />
+  Coloredguns: ↓<br /> [Already colored guns (Wanncry Themed)]<br />
+  Esp: ↓<br /> [Shows you where a player is]<br />
+  Fakelag: ↓<br /> [Makes it look like you're lagging]<br />
+  Flyspeed/Fs: ↓<br /> [Changes fly speed]<br />
+  Follow: ↓<br /> [Allows you to follow someone]<br />
+  Fov/Fieldofview: ↓<br /> [Changes your fov]<br />
+  Fovcircle/Circle/Aimlockcircle: ↓<br /> [Shows an fovcircle]<br />
+  Freeze/Frz: ↓<br /> [Freezes you]<br />
+  Fullbright: ↓<br /> [Makes the game always bright]<br />
+  Fullzoom/Infzoom: ↓<br /> [Zoom out infinitly]<br />
+  Goto/to: ↓<br /> [Teleports you to a player]<br />
+  HideUi/Hu: ↓<br /> [Hides those ugly buttons on the left side of the screen]<br />
+  Hotkeys: ↓<br /> [Loads a GUI allowing you to change your hotkeys (Yes, they save)]<br />
+  Infiniteff/Infff: ↓<br /> [Be invinsible forever!]<br />
+  Infinitejump/InfJump/Ij: ↓<br /> [Jump forever]<br />
+  Larm: ↓<br /> [Removes left arm]<br />
+  Lleg: ↓<br /> [Removes left leg]<br />
+  Material: ↓<br /> [Custom gun materialing] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Search up roblox materials<br />
+  Noclip/Nc: ↓<br /> [Allows you to go through anything]<br />
+  Nosit: ↓<br /> [Never sit]<br />
+  Outerspace/Space: ↓<br /> [Teleports you to space]<br />
+  Pipebot/Pb: ↓<br /> [Pipebots a player]<br />
+  Protect/Pro: ↓<br /> [Places you infront of someone taking all of the damage]<br />
+  Rarm: ↓<br /> [Right arm]<br />
+  Reflectance: ↓<br /> [Custom gun reflection] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Enter a number between 0.1-1<br />
+  Rejoin/Rj: ↓<br /> [Rejoins the game]<br />
+  Remotegun: ↓<br /> [A bit broken but will make your gun teleport to a player you targetted]<br />
+  Removeallparts: ↓<br /> [Removes all limbs]<br />
+  Removearms: ↓<br /> [Removes arms]<br />
+  Removelegs: ↓<br /> [Removes legs]<br />
+  Reset/Re: ↓<br /> [Resets your character]<br />
+  Resettime: ↓<br /> [Changes the time to normal]<br />
+  Rleg: ↓<br /> [Removes right leg]<br />
+  Selectgun: ↓<br /> [Choose a gun you want to customize (Shotty or Glock)]<br />
+  Shottyrocket/Rocket: ↓<br /> [Makes your shotty look like a RPG]<br />
+  Shutdown/Exit: ↓<br /> [Kills your game]<br />
+  Sit: ↓<br /> [Makes you sit]<br />
+  Spam: ↓<br /> [Spam any message]<br />
+  Spamdelay: ↓<br /> [Changes the speed of your spammed message] P.S: The higher the number, the slower the time is<br />
+  Time: ↓<br /> [Changes time of day] P.S: 0-24<br />
+  Transparency: ↓<br /> [Custom gun transparency] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Enter a number between 0.1-1<br />
+  Triggerbot: ↓<br /> [Makes you kill someone over and over]<br />
+  View: ↓<br /> [Allows you to watch someone like a stalker]<br />
+  Void: ↓<br /> [Teleports you to the void]<br />
 }<br />
 
 # Coming Updates: V2.2B <br />
