@@ -86,9 +86,11 @@
   Void: ↓<br /> [Teleports you to the void]<br />
 }<br />
 
-# Coming Updates: V2.2B <br />
-  OP Aimlock<br />
- 
+# Coming Updates: V2.1.3 <br />
+  Camlock Hotkey Fix <br />
+  Workspace Fix <br />
+  Fly command <br />
+  
 # Possible Updates: <br />
   Release Source Code <br />
   
