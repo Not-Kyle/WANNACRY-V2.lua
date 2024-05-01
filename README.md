@@ -120,7 +120,7 @@
   42. Resettime
    > Makes time go back to normal
   43. Selectgun
-   > To Use any of the commands below, you must say Selectgun then either `Shotty` or `Glock`
+   > To Use any of the commands below, you must say Selectgun `Shotty` or `Glock`
    - [ ] 1. Color > Customizable Gun Color (You can choose anygun color) [Colors](https://create.roblox.com/docs/reference/engine/datatypes/BrickColor)
    - [ ] 2. Material > Customizable Gun Materials (You can use any material [Materials](https://raw.githubusercontent.com/Not-Kyle/WANNACRY-V2.lua/main/Useful/Materials.lua) or [More](https://create.roblox.com/docs/parts/materials)
    - [ ] 3. Reflectance > Customizable Gun Reflectance (Pick a number between 0.1 & 1)
