@@ -1,4 +1,6 @@
-# The best free script in prison remake! By Coryu
+</p>
+ <h2 align="center">The best free script in prison remake! By Coryu</h2>
+</p>
 
 > [!IMPORTANT]\
 > **WHATS NEW?**
