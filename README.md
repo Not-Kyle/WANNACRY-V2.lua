@@ -30,9 +30,12 @@
    > Changes the part you're aimlocked on `Head, Torso, HumanoidRootPart`
   4. Aimlockset
    > Allows you to change how the aimlock functions `Head, Predication, OldPrediction, MoveDirection, Highping`
-  Aimvelocity/Av: ↓<br /> [Changes aimlock velocity]<br />
-  Airwalk: ↓<br /> [Allows you to walk on air]<br />
-  Annoy/Ay: ↓<br /> [Annoys a player]<br />
+  5. Aimvelocity or Av
+   > Allows you to change your aimvelocity
+  6. Airwalk:
+   > You can walk on air
+  7. Annoy or Ay
+   > Annoys another player
   Antiafk: ↓<br /> [Prevents you from being kicked by being afk]<br />
   Antifling: ↓<br /> [Prevents you from being flung]<br />
   Antigh: ↓<br /> [Prevents you from being knocked to the ground]<br />
