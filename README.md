@@ -85,7 +85,8 @@
   31. Infiniteff or Infff
    > Infinite forcefield
   32. Infinitejump or Infjump or Ij
-   > You can jump forever <br />
+   > You can jump forever 
+<br />
   **33. Remove limbs**
    - [ ] 1. Larm
     > Removes left arm
