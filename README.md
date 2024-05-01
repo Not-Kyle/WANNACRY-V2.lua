@@ -1,28 +1,26 @@
 # The best free script in prison remake! By Coryu
 
 > [!IMPORTANT]\
-> **Update v2.1a is here!**
-
-# UPDATE V2.1A IS HERE!!
-  New:
-      Remove Backdoor<br />
-      Remove Unneeded Commands<br />
-      Clean Up Source Code (1k Useless Lines Of Code Removed)<br />
-      Removed all un____ commands<br />
-      Custom Bypass<br />
-      Added NoSit toggle<br />
-      Added Safety from bans<br />
-      Added Metatable Checking (API)<br />
-      Added Command Counter<br />
-      Made Commands recongnize all forms of spelling<br />
-      Made ScreenGui less likely to be detected and Gui Protection<br />
-      Made personal firewall to not be targetted using my own script<br />
-      Camlock is now runservice shifting (Heartbeat, Stepped, Renderstepped)<br />
-      Aimlock can now be shifted by limbs (Head, Torso, HumanoidRootPart)<br />
-      Syn metatable now turns into a comment "--syn" if executor does not support it<br />
-      Coloured Guns<br />
-      Customizable Guns<br />
-      Fake lag<br />
+> **WHATS NEW?**
+> **Update v2.1a is here!!**
+> This update
+> - [ ] Removes the backdoor
+> - [ ] Removes the useless commands
+> - [ ] A very needed cleaned up source code
+> - [ ] Commands are all true and false active, meaning if you say Blink once it will turn on and say it again, it will turn off!
+> - [ ] A Custom Bypass
+> - [ ] Nosit is togglable
+> - [ ] More safe from bans
+> - [ ] Added Executor capabilities check
+> - [ ] Added a command counter
+> - [ ] Commands are reconized by all forms of spelling
+> - [ ] ScreenGui is very secure by a Syn metatable
+> - [ ] Personal firewall, so you can not target me
+> - [ ] Camlock is runservice shifting
+> - [ ] Aimlock can be shifted by limb selecting
+> - [ ] A custom Syn deactivater if your executor does not support it
+> - [ ] Colored guns
+> - [ ] Fake lag
 
 # Commands <br />
   1. Age
