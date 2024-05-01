@@ -22,10 +22,16 @@
       Fake lag<br />
 
 # Commands = { <br />
-  Age: ↓<br />[Says a players account age]<br />
-  Aimlock/Aim: ↓<br />[Aimlocks on a player]<br />
-  Aimlockpart: ↓<br /> [Head, Torso, HumanoidRootPart]<br />
-  Aimlockset/Aimset/Aims: ↓<br /> [Head, Prediction, OldPrediction, MoveDirection, Highping]<br />
+  1. Age
+   > Says a players account age
+  2. Aimlock or Aim
+   > Aimlocks on a player
+  3. Aimlockpart
+   > Changes the part you're aimlocked on
+    > Head, Torso, HumanoidRootPart
+  4. Aimlockset
+   > Allows you to change how the aimlock functions
+    > Head, Predication, OldPrediction, MoveDirection, Highping
   Aimvelocity/Av: ↓<br /> [Changes aimlock velocity]<br />
   Airwalk: ↓<br /> [Allows you to walk on air]<br />
   Annoy/Ay: ↓<br /> [Annoys a player]<br />
