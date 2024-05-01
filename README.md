@@ -21,7 +21,7 @@
       Customizable Guns<br />
       Fake lag<br />
 
-# Commands = { <br />
+# Commands <br />
   1. Age
    > Says a players account age
   2. Aimlock or Aim
@@ -117,22 +117,33 @@
    > Remotely shoots your gun at a selected player
   41. Reset or Re
    > Resets you
-  Color: ↓<br /> [Custom gun coloring] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: It uses brickcolor (Search up roblox brickcolors)<br />
-  Material: ↓<br /> [Custom gun materialing] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Search up roblox materials<br />
-  Reflectance: ↓<br /> [Custom gun reflection] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Enter a number between 0.1-1<br />
-  Resettime: ↓<br /> [Changes the time to normal]<br />
-  Selectgun: ↓<br /> [Choose a gun you want to customize (Shotty or Glock)]<br />
-  Shottyrocket/Rocket: ↓<br /> [Makes your shotty look like a RPG]<br />
-  Shutdown/Exit: ↓<br /> [Kills your game]<br />
-  Sit: ↓<br /> [Makes you sit]<br />
-  Spam: ↓<br /> [Spam any message]<br />
-  Spamdelay: ↓<br /> [Changes the speed of your spammed message] P.S: The higher the number, the slower the time is<br />
-  Time: ↓<br /> [Changes time of day] P.S: 0-24<br />
-  Transparency: ↓<br /> [Custom gun transparency] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Enter a number between 0.1-1<br />
-  Triggerbot: ↓<br /> [Makes you kill someone over and over]<br />
-  View: ↓<br /> [Allows you to watch someone like a stalker]<br />
-  Void: ↓<br /> [Teleports you to the void]<br />
-}<br />
+  42. Resettime
+   > Makes time go back to normal
+  43. Selectgun
+   > To Use any of the commands below, you must say Selectgun then either `Shotty` or `Glock`
+   - [ ] 1. Color > Customizable Gun Color (You can choose anygun color) [Colors](https://create.roblox.com/docs/reference/engine/datatypes/BrickColor)
+   - [ ] 2. Material > Customizable Gun Materials (You can use any material [Materials](https://raw.githubusercontent.com/Not-Kyle/WANNACRY-V2.lua/main/Useful/Materials.lua) or [More](https://create.roblox.com/docs/parts/materials)
+   - [ ] 3. Reflectance > Customizable Gun Reflectance (Pick a number between 0.1 & 1)
+   - [ ] 4. Transparency > Customizable Gun Transparency (Pick a number between 0.1 & 1)
+  44. Shottyrocket or Rocket
+   > Makes your shotty look like a RPG
+  45. Shutodwn or Exit
+   > Quite useless command but kills your roblox game
+  46. Sit
+   > Sits you down
+  47. Spam
+   > Allows you to spam any message
+  48. Spamdelay
+   > Changes your delay in each spam
+  49. Time
+   > You can change the time (0-24)
+  50. Triggerbot
+   > Spam kills someone until you turn it off
+  51. View
+   > Allows you to watch someone like a stalker
+  52. Void
+   > Teleports you to the void
+}
 
 # Patch: V2.1.3 <br />
   Camlock Hotkey Fix <br />
