@@ -27,13 +27,9 @@
   2. Aimlock or Aim
    > Aimlocks on a player
   3. Aimlockpart
-   > Changes the part you're aimlocked on
-   ```
-    Head, Torso, HumanoidRootPart
-   ```
+   > Changes the part you're aimlocked on `Head, Torso, HumanoidRootPart`
   4. Aimlockset
-   > Allows you to change how the aimlock functions
-   `Head, Predication, OldPrediction, MoveDirection, Highping`
+   > Allows you to change how the aimlock functions `Head, Predication, OldPrediction, MoveDirection, Highping`
   Aimvelocity/Av: ↓<br /> [Changes aimlock velocity]<br />
   Airwalk: ↓<br /> [Allows you to walk on air]<br />
   Annoy/Ay: ↓<br /> [Annoys a player]<br />
