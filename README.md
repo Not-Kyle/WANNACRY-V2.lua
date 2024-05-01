@@ -2,8 +2,8 @@
 
 > [!IMPORTANT]\
 > **WHATS NEW?**
-> **Update v2.1a is here!!**
-> This update
+> **Update v2.1a is here!!** <br />
+> This update <br />
 > - [ ] Removes the backdoor
 > - [ ] Removes the useless commands
 > - [ ] A very needed cleaned up source code
