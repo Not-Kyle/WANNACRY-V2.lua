@@ -86,8 +86,7 @@
    > Infinite forcefield
   32. Infinitejump or Infjump or Ij
    > You can jump forever
-  33. Remove limbs
-   {
+  * Remove limbs
    1. Larm
     > Removes left arm
    2. Lleg
@@ -102,7 +101,6 @@
     > Removes legs
    7. Removeallparts
     > Removes all limbs
-   }
   34. Noclip or Nc
    > Allows you to go through any part
   35. Nosit
