@@ -15,7 +15,7 @@
 > - [ ] Removes the backdoor
 > - [ ] Removes the useless commands
 > - [ ] A very needed cleaned up source code
-> - [ ] Commands are all true and false active, meaning if you say Blink once it will turn on, say it again it will turn off
+> - [ ] Commands are all true & false active, meaning if you say Blink once it will turn on, say it again it will turn off
 > - [ ] A Custom Bypass
 > - [ ] Nosit is togglable
 > - [ ] More safe from bans
