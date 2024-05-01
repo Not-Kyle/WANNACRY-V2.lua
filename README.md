@@ -87,21 +87,21 @@
   32. Infinitejump or Infjump or Ij
    > You can jump forever
   * 33. Remove limbs
-   - [] 1. Larm
+   - [ ] 1. Larm
     > Removes left arm
-   - [] 2. Lleg
+   - [ ] 2. Lleg
     > Removes left leg
-   - [] 3. Rarm
+   - [ ] 3. Rarm
     > Removes right arm
-   - [] 4. Rleg
+   - [ ] 4. Rleg
     > Removes right leg
-   - [] 5. Removearms
+   - [ ] 5. Removearms
     > Removes arms
-   - [] 6. Removelegs
+   - [ ] 6. Removelegs
     > Removes legs
-   - [] 7. Removeallparts
+   - [ ] 7. Removeallparts
     > Removes all limbs
- <br \>
+ <br />
   34. Noclip or Nc
    > Allows you to go through any part
   35. Nosit
