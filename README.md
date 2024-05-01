@@ -32,54 +32,95 @@
    > Allows you to change how the aimlock functions `Head, Predication, OldPrediction, MoveDirection, Highping`
   5. Aimvelocity or Av
    > Allows you to change your aimvelocity
-  6. Airwalk:
+  6. Airwalk
    > You can walk on air
   7. Annoy or Ay
    > Annoys another player
-  Antiafk: ↓<br /> [Prevents you from being kicked by being afk]<br />
-  Antifling: ↓<br /> [Prevents you from being flung]<br />
-  Antigh: ↓<br /> [Prevents you from being knocked to the ground]<br />
-  Autofire: ↓<br /> [Turns your gun into automatic]<br />
-  Blink/Bl: ↓<br /> [Run fast]<br />
-  Blinkspeed/Bs: ↓<br /> [Changes the speed of blink]<br />
-  Camlock/Cl: ↓<br /> [Locks your camera on a player]<br />
-  Camlocksetting: ↓<br /> [Heartbeat, Stepped, Renderstepped] Default: Stepped<br />
-  Clearwalls: ↓<br /> [Whenever you go close to a wall, you can see through it]<br />
-  Clicktp: ↓<br /> [Press T and teleport]<br />
+  8. Antiafk
+   > No longer will you get kicked by being afk
+  9. Antifling
+   > Prevents you from being flung
+  10. Antigh
+   > Prevents you from being knocked to the ground
+  11. Autofire
+   > Turn your semi gun into an automatic
+  12. Blink or Bl
+   > Sprint
+  13. Blinkspeed or Bs
+   > Allows you to change the speed of your sprint
+  14. Camlock or Cl
+   > Locks your camera on a player
+  15. Camlocksetting
+   > Changes the function of your camlock `Heartbeat, Stepped, RenderStepped` Default: Stepped
+  16. Clearwalls
+   > Whenever you go close to a wall, you can see through it
+  17. Clicktp
+   > Press T and teleport
+  18. Coloredguns 
+   > Changes your gun colors to Wannacry Theme
+  19. Esp
+   > Allows you to view where a player is
+  20. Fakelag
+   > Makes it look like you're lagging
+  21. Flyspeed or Fs
+   > Changes the flight speed
+  22. Follow
+   > You can follow someone
+  23. Fov or Fieldofview
+   > Changes your FOV
+  24. Fovcircle or Circle or Aimlockcircle
+   > Shows a fovcircle
+  25. Freeze or Frz
+   > Freezes your torso
+  26. Fullbright
+   > Always bright
+  27. Fullzoom or InfZoom
+   > You can zoom out infinitly
+  28. Goto or To
+   > Teleports to a player
+  29. HideUi or Hu
+   > Hides the ugly buttons
+  30. Hotkeys
+   > Loads a GUI allowing you to change your keybinds (Yes, of course they save)
+  31. Infiniteff or Infff
+   > Infinite forcefield
+  32. Infinitejump or Infjump or Ij
+   > You can jump forever
+  33. Remove limbs
+   1. Larm
+    > Removes left arm
+   2. Lleg
+    > Removes left leg
+   3. Rarm
+    > Removes right arm
+   4. Rleg
+    > Removes right leg
+   5. Removearms
+    > Removes arms
+   6. Removelegs
+    > Removes legs
+   7. Removeallparts
+    > Removes all limbs
+  34. Noclip or Nc
+   > Allows you to go through any part
+  35. Nosit
+   > Nolonger sit
+  36. Outerspace or Space
+   > Teleports you to space
+  37. Pipebot or Pb
+   > Pipebots a player
+  38. Protect or Pro
+   > Puts you infront of someone to protect them
+  39. Rejoin or Rj
+   > Rejoins the game
+  40. Remotegun
+   > Remotely shoots your gun at a selected player
+  41. Reset or Re
+   > Resets you
   Color: ↓<br /> [Custom gun coloring] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: It uses brickcolor (Search up roblox brickcolors)<br />
-  Coloredguns: ↓<br /> [Already colored guns (Wanncry Themed)]<br />
-  Esp: ↓<br /> [Shows you where a player is]<br />
-  Fakelag: ↓<br /> [Makes it look like you're lagging]<br />
-  Flyspeed/Fs: ↓<br /> [Changes fly speed]<br />
-  Follow: ↓<br /> [Allows you to follow someone]<br />
-  Fov/Fieldofview: ↓<br /> [Changes your fov]<br />
-  Fovcircle/Circle/Aimlockcircle: ↓<br /> [Shows an fovcircle]<br />
-  Freeze/Frz: ↓<br /> [Freezes you]<br />
-  Fullbright: ↓<br /> [Makes the game always bright]<br />
-  Fullzoom/Infzoom: ↓<br /> [Zoom out infinitly]<br />
-  Goto/to: ↓<br /> [Teleports you to a player]<br />
-  HideUi/Hu: ↓<br /> [Hides those ugly buttons on the left side of the screen]<br />
-  Hotkeys: ↓<br /> [Loads a GUI allowing you to change your hotkeys (Yes, they save)]<br />
-  Infiniteff/Infff: ↓<br /> [Be invinsible forever!]<br />
-  Infinitejump/InfJump/Ij: ↓<br /> [Jump forever]<br />
-  Larm: ↓<br /> [Removes left arm]<br />
-  Lleg: ↓<br /> [Removes left leg]<br />
   Material: ↓<br /> [Custom gun materialing] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Search up roblox materials<br />
-  Noclip/Nc: ↓<br /> [Allows you to go through anything]<br />
-  Nosit: ↓<br /> [Never sit]<br />
-  Outerspace/Space: ↓<br /> [Teleports you to space]<br />
-  Pipebot/Pb: ↓<br /> [Pipebots a player]<br />
-  Protect/Pro: ↓<br /> [Places you infront of someone taking all of the damage]<br />
-  Rarm: ↓<br /> [Right arm]<br />
   Reflectance: ↓<br /> [Custom gun reflection] (YOU MUST HAVE USED THE SELECTGUN COMMAND FIRST) P.S: Enter a number between 0.1-1<br />
-  Rejoin/Rj: ↓<br /> [Rejoins the game]<br />
-  Remotegun: ↓<br /> [A bit broken but will make your gun teleport to a player you targetted]<br />
-  Removeallparts: ↓<br /> [Removes all limbs]<br />
-  Removearms: ↓<br /> [Removes arms]<br />
-  Removelegs: ↓<br /> [Removes legs]<br />
-  Reset/Re: ↓<br /> [Resets your character]<br />
   Resettime: ↓<br /> [Changes the time to normal]<br />
-  Rleg: ↓<br /> [Removes right leg]<br />
   Selectgun: ↓<br /> [Choose a gun you want to customize (Shotty or Glock)]<br />
   Shottyrocket/Rocket: ↓<br /> [Makes your shotty look like a RPG]<br />
   Shutdown/Exit: ↓<br /> [Kills your game]<br />
