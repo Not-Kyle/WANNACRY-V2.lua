@@ -154,15 +154,15 @@
    > Teleports you to the void
 }
 
-# Patch: V2.1.3 <br />
-  Camlock Hotkey Fix <br />
-  Workspace Fix <br />
-  Fly command <br />
+> [!IMPORTANT]\
+> **Upcoming Updates**
+> Camlock Hotkey fix
+> Worksapce Fix
+> Fly Command
+> Better Aimlock
 
-# Updates Soon: <br />
-  Great Aimlock <br />
-  
-# Possible Updates: <br />
-  Release Source Code <br />
-  
-![image](https://cdn.discordapp.com/attachments/1207947281828024340/1207954472915963924/image.png?ex=65f3fb45&is=65e18645&hm=f1720e2d4d2ef4e0d396948247735eb9320d9afb7f828e80d32a81953ddc5e45&)
+</p>
+ <p align="center">
+    <img width="800px" src="https://cdn.discordapp.com/attachments/1207947281828024340/1207954472915963924/image.png?ex=65f3fb45&is=65e18645&hm=f1720e2d4d2ef4e0d396948247735eb9320d9afb7f828e80d32a81953ddc5e45&">
+</p>
+
