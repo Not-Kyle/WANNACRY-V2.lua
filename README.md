@@ -151,12 +151,12 @@
   51. View
    > Allows you to watch someone like a stalker
   52. Void
-   > Teleports you to the void
-}
+   > Teleports you to the void <br />
+
 
 > [!IMPORTANT]\
-> **Upcoming Updates**
-> Camlock Hotkey fix
-> Worksapce Fix
-> Fly Command
-> Better Aimlock
+> **Upcoming Updates** <br />
+> Camlock Hotkey fix <br />
+> Worksapce Fix <br />
+> Fly Command <br />
+> Better Aimlock <br />
