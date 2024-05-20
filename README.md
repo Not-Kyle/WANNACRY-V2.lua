@@ -136,7 +136,7 @@
    - [ ] 4. Transparency > Customizable Gun Transparency (Pick a number between 0.1 & 1)
   44. Shottyrocket or Rocket
    > Makes your shotty look like a RPG
-  45. Shutodwn or Exit
+  45. Shutdown or Exit
    > Quite useless command but kills your roblox game
   46. Sit
    > Sits you down
